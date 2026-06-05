@@ -1,0 +1,27 @@
+# Shoutout to Autumnotopia on the Lemma Soft Forums for this list #
+
+# Don't track the content of these folders #
+############################################
+cache/
+saves/
+
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.rpyc
+*.rpymc
+
+
+# The log file and other misc things #
+######################################
+log.txt
+errors.txt
+traceback.txt
+files.txt
